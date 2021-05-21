@@ -1,0 +1,12 @@
+{
+  "Id": "HandInAirFix",
+  "DisplayName": "Hand In Air Fix",
+  "Author": "bluevulture",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.22.9",
+  "Requirements": [],
+  "LoadAfter": [],
+  "AssemblyName": "HandInAirFix.dll",
+  "HomePage": "",
+  "EntryMethod": "HandInAirFix.Main.Load"
+}
